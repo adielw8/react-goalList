@@ -1,0 +1,11 @@
+.goalList{
+    font-size: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: groove;
+    margin-top: 5px;
+
+}
+.goals{
+    margin: 20% 20% 0% 20%;
+}
